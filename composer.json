@@ -1,0 +1,7 @@
+{
+    "require": {
+        "facebook/webdriver": "^1.7",
+        "gabordemooij/redbean": "^5.3",
+        "phpoffice/phpspreadsheet": "^1.8"
+    }
+}
